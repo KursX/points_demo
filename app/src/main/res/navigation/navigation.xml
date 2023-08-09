@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navigation"
+    app:startDestination="@id/menu_fragment">
+
+    <fragment
+        android:id="@+id/menu_fragment"
+        android:name="com.kursx.demo.MenuFragment"/>
+
+    <fragment
+        android:id="@+id/chart_compose_fragment"
+        android:name="com.kursx.chart.ui.compose.ChartComposeFragment" />
+</navigation>

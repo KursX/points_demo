@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chart Demo</string>
+    <string name="go">Поехали</string>
+    <string name="placeholder">Введите количество точек</string>
+    <string name="save_graph">Сохранить график</string>
+    <string name="choose_application">Выберите приложение</string>
+    <string name="info_block">Блок информационного текста</string>
+    <string name="smooth">Сгладить</string>
+    <string name="chart_compose">График на Compose</string>
+</resources>
